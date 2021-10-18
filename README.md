@@ -2,7 +2,9 @@
 
 The app "Landmarks" is an iOS app for discovering and sharing the places you love.
 
-## ViewHierarchy of Views
+## Application Structure
+
+### View Hierarchy
 
 - `LandmarksApp`
   - `ContentView`
